@@ -1,0 +1,16 @@
+# Estilo de Bloco ( Block )
+host1: geek
+datacenter1: 
+  location: Vila Velha
+  router: 42
+roles1:
+  - web 
+  - dns
+
+
+# Estilo de Fluxo ( Flow )
+host2: "geek"
+datacenter2: {location: 
+  Vila Velha, router: 42 }
+roles2: [ web, dns ]
+

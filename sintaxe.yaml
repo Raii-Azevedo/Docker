@@ -1,0 +1,7 @@
+host: geek
+datacenter: 
+  location: Vila Velha
+  router: 42
+roles:
+  - web 
+  - dns
