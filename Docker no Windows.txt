@@ -1,4 +1,4 @@
-a) Baixar o Docker Desktop que está disponível junto aos materiais para download
+a) Baixar o Docker Desktop
 
 b) Instalar
 
