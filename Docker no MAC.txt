@@ -1,0 +1,17 @@
+a) Baixar o Docker Desktop que está disponível junto aos materiais para download
+
+b) Instalar
+
+c) Checar se foi instalado com sucesso executando no terminal
+
+	docker version
+
+
+d) Testar a instalação executando o Hello World no terminal
+
+	docker run hello-world
+
+
+
+Tudo pronto para a diversão!
+
