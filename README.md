@@ -1,6 +1,6 @@
 # Docker
-- [Sobre o Docker]()
-Especialização de sistema Docker e YAML. Docker é uma ferramenta que deixa a tarefa de gerenciar containers muito mais fácil. 
+- [Sobre o Docker](https://github.com/Raii-Azevedo/Docker/blob/master/Docker%20-%20Ra%C3%AD%20Azevedo.pdf)
+- Especialização de sistema Docker e YAML. Docker é uma ferramenta que deixa a tarefa de gerenciar containers muito mais fácil. 
 
 
   ## Configurando o Ambiente
@@ -10,8 +10,8 @@ Especialização de sistema Docker e YAML. Docker é uma ferramenta que deixa a 
 
 
 ## A linguagem YAML
-- [A Linguagem YALM]()
-No Docker são escritos arquivos de configuração para serem executados, e estes arquivos são escritos nessa linguagem de marcação YAML.
+- [A Linguagem YALM](https://github.com/Raii-Azevedo/Docker/blob/master/Linguagem%20YAML.pdf)
+- No Docker são escritos arquivos de configuração para serem executados, e estes arquivos são escritos nessa linguagem de marcação YAML.
 Yet Another Markup Language, criada em 2001 é uma linguagem não apenas de marcação, como o nome sugere, mas sim uma linguagem de Serialização de Dados.
 
 - [Sintaxe](https://github.com/Raii-Azevedo/Docker/blob/master/sintaxe.yaml)
