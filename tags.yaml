@@ -1,0 +1,14 @@
+%TAG ! tag:host:geek
+---
+host: geek
+datacenter: 
+  location: !GEEK São Paulo
+  router: "42"
+  switch: '34'
+--- 
+host: udemy
+datacenter: 
+  location: Colorado 
+  router: !!str 42
+  switch: !!str 34 # Ou !!int ou !!float
+

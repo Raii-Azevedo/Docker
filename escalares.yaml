@@ -1,0 +1,20 @@
+hots: geek
+datacenter:
+  location: São Paulo
+  router: '42' 
+  switch: '34'
+roles: 
+  - webserver
+  - database
+funcionamento: |
+  segunda - das 08:00 as 17:00
+  terça   - das 09:00 as 18:00
+  quarta  - das 10:00 as 19:00
+  quinta  - das 11:00 as 20:00
+  sexta   - das 12:00 as 21:00
+  sábado  - das 13:00 as 22:00
+  domingo - das 14:00 as 23:00
+comentarios: >
+  Temos alto uso de CPU
+  desde 04/10/2020.
+  Estamos investigando.

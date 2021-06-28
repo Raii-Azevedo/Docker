@@ -1,0 +1,6 @@
+host: geek 
+datacenter: 
+  location: São Paulo
+  router: 42
+
+  

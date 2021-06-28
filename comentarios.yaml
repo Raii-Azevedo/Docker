@@ -1,0 +1,17 @@
+# Configurações do Host Geek:
+---
+host: geek
+datacenter: 
+  location: Vila Velha # Cidade do ES
+  router: 42
+roles:
+  - web 
+  - dns
+--- 
+host: Udemy
+datacenter: 
+  location: Colorado # Estado do EUA
+  router: 42
+roles:
+  - web 
+  - dns
