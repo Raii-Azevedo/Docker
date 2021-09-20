@@ -1,7 +1,10 @@
 # Docker
-Especialização de sistema Docker e YAML. Docker é uma ferramenta que deixa a tarefa de gerenciar containers muito mais fácil. 
+
 - [Sobre o Docker](https://github.com/Raii-Azevedo/Docker/blob/master/Docker%20-%20Ra%C3%AD%20Azevedo.pdf)
 - [Tutorial Completo]()
+
+- Especialização de sistema Docker e YAML. Docker é uma ferramenta que deixa a tarefa de gerenciar containers muito mais fácil. 
+
 
 
 
